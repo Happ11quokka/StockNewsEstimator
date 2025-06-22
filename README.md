@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-Before introducing the project, I would like to express my sincere gratitude to Dr. Sungwoo Park and Professor Hyoung-Goo Kang for their invaluable guidance and support throughout the semester.
+**Before introducing the project, I would like to express my sincere gratitude to Dr. Sungwoo Park and Professor Hyoung-Goo Kang for their invaluable guidance and support throughout the semester.**
 
 This project explores the viability of using a Large Language Model (LLM), specifically GPT-4.1 Nano, to predict stock returns in the Korean market through news-based sentiment analysis. Inspired by recent studies in the U.S. (e.g., Lopez-Lira and Tang, 2023) that utilized ChatGPT to analyze news sentiment for stock prediction, we apply a similar approach to Korean financial news. We collected a comprehensive dataset of Korean news articles and stock prices, developed a sentiment-scoring mechanism using GPT-4.1 Nano, and designed long-short trading strategies based on these sentiment signals. The performance of these strategies is evaluated across multiple dimensions – including different news categories, company sizes, investment styles, and industry sectors – to identify where the LLM-driven approach is most effective. The goal is to assess whether AI-based sentiment analysis can offer predictive power in the Korean stock market and how its efficacy varies in a multi-dimensional context.
 
