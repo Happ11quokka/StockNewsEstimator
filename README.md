@@ -13,7 +13,7 @@ _(Corresponding Author)_
 
 ## Conference Submission
 
-This paper has been submitted to the **Korean Finance Engineering Society (KAFE)**, the **KAFE Conference**, and the **Asia-Pacific Association of Derivatives (APAF) Conference**.  
+This paper has been submitted to the **Korean Finance Engineering Society (KAFE)** and the **Asia-Pacific Association of Derivatives (APAF) Conference**.  
 For more information: [KAFE Conference 2023 Reference Page](https://www.kafe2023.org/bbs/reference/254)
 
 ---
